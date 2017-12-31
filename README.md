@@ -10,9 +10,8 @@ add a Chrismas hat :)
 
 ## How to run
 1. Make sure you have hat image, photo, and face landmark detector in the same folder
-2. ```python
-python addHat.py hat.png person.jpg
-```
+2. Then run: python addHat.py hat.png person.jpg
+
 
 ## Acknowledgement
 This repo is adapted from [Liu's work](https://github.com/LiuXiaolong19920720/Add-Christmas-Hat)
