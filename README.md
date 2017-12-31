@@ -3,7 +3,7 @@ add a Chrismas hat :)
 
 ![Original photo](https://github.com/YeGuanDS/Give-Me-A-Chrismas-Hat/blob/master/person.jpg)
 
-![I get a hat！]（https://github.com/YeGuanDS/Give-Me-A-Chrismas-Hat/blob/master/output.jpg)
+![I get a hat]（https://github.com/YeGuanDS/Give-Me-A-Chrismas-Hat/blob/master/output.jpg)
 
 ## Requirements
 1. [Python==3](https://www.anaconda.com/download/#linux)
