@@ -3,11 +3,11 @@ add a Christmas hat :)
 
 Original photo:
 
-![](https://github.com/YeGuanDS/Give-Me-A-Chrismas-Hat/blob/master/person.jpg)
+![](https://github.com/YeGuanDS/Give-Me-A-Christmas-Hat/blob/master/person.jpg)
 
 I get a hat now!
 
-![](https://github.com/YeGuanDS/Give-Me-A-Chrismas-Hat/blob/master/output.jpg)
+![](https://github.com/YeGuanDS/Give-Me-A-Christmas-Hat/blob/master/output.jpg)
 
 ## Requirements
 1. [Python==3](https://www.anaconda.com/download/#linux)
