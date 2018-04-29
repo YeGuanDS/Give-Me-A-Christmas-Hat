@@ -1,5 +1,5 @@
-# Give-Me-A-Chrismas-Hat
-add a Chrismas hat :)
+# Give-Me-A-Christmas-Hat
+add a Christmas hat :)
 
 Original photo:
 
